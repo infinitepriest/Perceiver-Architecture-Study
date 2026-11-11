@@ -220,7 +220,7 @@ Recommended Python version: **Python ≥ 3.9**
 
 **Ayushman Mishra**  
 Robotics & Control Systems    
-[linkedin.com/in/infinitepriest](https://www.linkedin.com/in/infinitepriest/)
+[linkedin.com/in/infinitepriest](https://www.linkedin.com/in/infinitepriest/)    
 https://github.com/infinitepriest  
 
 ---
