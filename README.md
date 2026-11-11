@@ -221,6 +221,6 @@ Recommended Python version: **Python ≥ 3.9**
 **Ayushman Mishra**  
 Robotics & Control Systems    
 [linkedin.com/in/infinitepriest](https://www.linkedin.com/in/infinitepriest/)    
-github.com/infinitepriest  
+[github.com/infinitepriest](https://www.github.com/infinitepriest/)    
 
 ---
